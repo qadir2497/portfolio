@@ -19,7 +19,7 @@ class Footer extends React.Component {
 								<img src={github} alt=""/>
 							</a>
 							<a
-								href="https://www.linkedin.com/in/abhinavkr44"
+								href="linkedin.com/in/abdul-qadir-25b233b7"
 								target="_blank"
 								rel="noopener noreferrer">
 								<img src={linkedin} alt=""/>
