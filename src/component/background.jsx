@@ -20,7 +20,7 @@ export default class Background extends React.Component {
 						<br />
 						I&apos;m a Full Stack Mobile and Web Developer.
 						I have experience in developing
-						Desktop application on WindowsOS and MacOs.
+						Desktop application on WindowsOS and MacOs as well.
 					</h1>
 					{/* offset can be cahnged in node modules wowjs default file */}
 					<button
