@@ -13,13 +13,13 @@ class Footer extends React.Component {
 						<div className="col-12 col-sm-12 col-md-8 mx-auto">
 							<a
 								className="px-3"
-								href="https://github.com/abhinav-workspace/"
+								href="https://github.com/qadir2497"
 								target="_blank"
 								rel="noopener noreferrer">
 								<img src={github} alt=""/>
 							</a>
 							<a
-								href="linkedin.com/in/abdul-qadir-25b233b7"
+								href="https://www.linkedin.com/in/abdul-qadir-25b233b7"
 								target="_blank"
 								rel="noopener noreferrer">
 								<img src={linkedin} alt=""/>
